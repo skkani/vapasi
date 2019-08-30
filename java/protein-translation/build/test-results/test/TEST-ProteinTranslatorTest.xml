@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ProteinTranslatorTest" tests="1" skipped="1" failures="0" errors="0" timestamp="2019-08-06T05:29:41" hostname="INDCHN-VAPASI-4-MacBook-Pro.local" time="89587.54">
+  <properties/>
+  <testcase name="testTranslationStopsIfStopCodonAtBeginning" classname="ProteinTranslatorTest" time="89587.54">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
